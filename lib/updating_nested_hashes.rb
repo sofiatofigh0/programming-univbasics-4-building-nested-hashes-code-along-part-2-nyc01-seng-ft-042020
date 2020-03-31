@@ -52,9 +52,8 @@ def add_characters
          {name: "Nurse", age: "44", attitude: "worried"}
          ]
       }
-      :additional_characters => [prince = { name: "Prince Escalus" }
-       apothecary = { name: "Apothecary" }]
-      }
+      :additional_characters => []
+      
    }
 
    epic_tragedy
